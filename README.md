@@ -35,5 +35,8 @@ type:
 conda env create -f ecn310_environment.yml
 
 activate the environment by typing 
+
 conda activate ecn310
-now you can open any of the .ipynb files by clicking on them in filebrowser or your can type jupyter notebook in the terminal to get started
+
+now you can open any of the .ipynb files by clicking on them in file browser or your can type jupyter notebook 
+in the terminal to get started
